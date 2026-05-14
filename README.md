@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**prad# 💫 About Me:
+# 💫 About Me:
 ## About Me 👩‍💻<br><br>- 🎓 B.Tech CSE student at Bharat Institute of Engineering and Technology<br>- 🌱 Currently learning Python, Web Development, AI, and Open Source<br>- 👯 Looking to collaborate on beginner-friendly open-source and AI projects<br>- 🔭 Currently working on AI-related and hackathon projects<br>- 🤝 Looking for help with improving development and GitHub contribution skills<br>- 💬 Ask me about Python, NCC, internships, and beginner tech projects<br>- ⚡ Fun fact: I enjoy exploring AI tools and participating in tech communities
 
 
@@ -27,6 +24,5 @@
 ---
 [![](https://komarev.com/ghpvc/?username=pradanyasingh123&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->anyasingh123/pradanyasingh123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
