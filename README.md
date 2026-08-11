@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me 👩‍💻<br><br>- 🎓 B.Tech CSE student at Bharat Institute of Engineering and Technology<br>- 🌱 Currently learning Python, Web Development, AI, and Open Source<br>- 👯 Looking to collaborate on beginner-friendly open-source and AI projects<br>- 🔭 Currently working on AI-related and hackathon projects<br>- 🤝 Looking for help with improving development and GitHub contribution skills<br>- 💬 Ask me about Python, NCC, internships, and beginner tech projects<br>- ⚡ Fun fact: I enjoy exploring AI tools and participating in tech communities
+## About Me 👩‍💻<br><br>- 🎓 B.Tech CSE student at Bharat Institute of Engineering and Technology<br>- 🌱 Currently learning full stack development, AI, and Open Source<br>- 👯 Looking to collaborate on beginner-friendly open-source and AI projects<br>- 🔭 Currently working on AI-related and hackathon projects<br>- 🤝 Looking for help with improving development and GitHub contribution skills<br>- 💬 Ask me about Python, NCC, internships, and beginner tech projects<br>- ⚡ Fun fact: I enjoy exploring AI tools and participating in tech communities
 
 
 ## 🌐 Socials:
